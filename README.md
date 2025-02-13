@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi, I'm Sushanth!
+
+I'm a Master's graduate in **Artificial Intelligence and Machine Learning** from the **University of Birmingham**. My interests lie in researching and developing AI-driven solutions, particularly in **Computer Vision** and **NLP**.
+- 🔭 I’m currently working on a **video super-resolution project using Vision Transformers (ViT)** to enhance video quality.
+- 🛠 I have recently developed an **image super-resolution** model with a UNet and residual blocks as part of my Mater's thesis, **analyzing the impact of different loss functions**. Check the research paper out [here](https://drive.google.com/file/d/1e3rKlcT6vA-PURgD8ZMENdxeYbYR2ivL/view?usp=drive_link).
+- 📖 I’m currently learning **LLM Engineering: Developing and deploying AI agents**.
+
+🚀 Looking for opportunities in **AI/ML research and AI-driven product development**. Feel free to check out my work and connect!
 
 <!--
 **SushanthJA/sushanthja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
